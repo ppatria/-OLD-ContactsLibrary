@@ -1,0 +1,6 @@
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\bin\Debug\ContactsLibrary.dll
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\bin\Debug\ContactsLibrary.pdb
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\obj\Debug\ContactsLibrary.csproj.AssemblyReference.cache
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\obj\Debug\ContactsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\obj\Debug\ContactsLibrary.dll
+C:\Users\ppatr\Desktop\CIS359 C#\ContactsLibrary\obj\Debug\ContactsLibrary.pdb

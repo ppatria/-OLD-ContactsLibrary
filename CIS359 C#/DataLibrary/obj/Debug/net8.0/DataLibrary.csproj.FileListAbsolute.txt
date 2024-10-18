@@ -1,0 +1,15 @@
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\bin\Debug\net8.0\DataLibrary.deps.json
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\bin\Debug\net8.0\DataLibrary.runtimeconfig.json
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\bin\Debug\net8.0\DataLibrary.dll
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\bin\Debug\net8.0\DataLibrary.pdb
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfo.cs
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.sourcelink.json
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.dll
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\refint\DataLibrary.dll
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.pdb
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\DataLibrary.genruntimeconfig.cache
+C:\Users\ppatr\Desktop\CIS359 C#\DataLibrary\obj\Debug\net8.0\ref\DataLibrary.dll

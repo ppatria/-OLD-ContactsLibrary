@@ -3,16 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLog;
 
 namespace Contacts
 {
-    public class ContactsLibrary   {
 
+    public interface IGetData
+    {
+        string GetContactData(int id);
+    }
+
+    public class ContactsLibrary : IGetData 
+    {
+
+        private static readonly NLog.Logger _log = 
+            NLog.LogManager.GetCurrentClassLogger();
 
         public const string LibraryName = "Contacts";
         public string ContactName = string.Empty;
         public Contact ContactDetails { get; set; }
         
+        // DEFAULT CONSTRUCTOR
+        public ContactsLibrary()
+
         public ContactsLibrary(string name) 
         {
             ContactName = name;
@@ -65,6 +78,26 @@ namespace Contacts
             // Delete contact and return true to indicate successful deletion
 
             return retVal;
+        }
+
+        public string GetContactData(int id)
+        {
+            string retVal = string.Empty;
+
+            // Exception Handling
+            try
+            {
+                retVal = DataLibrary.Data.GetData(id);
+
+                _log.Info("{0}:ContactsLibrary:GetContactData:{1}", DateTime.Now, id);
+            }
+            catch (Excpetion ex)
+            {
+                _log.Error("{0}:ContactsLibrary:GetContactData:An error occurred:{1}",
+                    DateTime.Now, ex.Message);
+            }
+
+                return retVal;
         }
 
     }
